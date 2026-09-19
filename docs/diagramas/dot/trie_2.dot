@@ -1,0 +1,16 @@
+digraph Trie {
+    node [shape=circle];
+    n0 [label="raiz"];
+    n1 [label="r"];
+    n0 -> n1;
+    n2 [label="o"];
+    n1 -> n2;
+    n3 [label="m"];
+    n2 -> n3;
+    n4 [label="a", shape=doublecircle];
+    n3 -> n4;
+    n5 [label="n"];
+    n4 -> n5;
+    n6 [label="o", shape=doublecircle];
+    n5 -> n6;
+}

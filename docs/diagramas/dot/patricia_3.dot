@@ -1,0 +1,10 @@
+digraph Patricia {
+    node [shape=box, style=rounded];
+    n0 [label="raiz"];
+    n1 [label="r"];
+    n0 -> n1;
+    n2 [label="oma", shape=doublecircle];
+    n1 -> n2;
+    n3 [label="ato", shape=doublecircle];
+    n1 -> n3;
+}

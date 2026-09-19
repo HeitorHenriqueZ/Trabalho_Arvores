@@ -1,0 +1,12 @@
+digraph SplayTree {
+    node [shape=circle];
+    "n10" [label="10"];
+    null0 [shape=point];
+    "n10" -> null0;
+    "n10" -> "n30";
+    "n30" [label="30"];
+    null1 [shape=point];
+    "n30" -> null1;
+    null2 [shape=point];
+    "n30" -> null2;
+}

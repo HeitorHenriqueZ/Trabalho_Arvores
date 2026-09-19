@@ -1,0 +1,12 @@
+digraph Treap {
+    node [shape=circle];
+    "n30" [label="30\n(p1710563032)"];
+    null0 [shape=point];
+    "n30" -> null0;
+    "n30" -> "n50";
+    "n50" [label="50\n(p804318771)"];
+    null1 [shape=point];
+    "n50" -> null1;
+    null2 [shape=point];
+    "n50" -> null2;
+}

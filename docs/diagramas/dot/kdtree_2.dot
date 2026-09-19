@@ -1,0 +1,16 @@
+digraph KDTree {
+    node [shape=ellipse];
+    "n3_6" [label="(3,6)\n[x]"];
+    null0 [shape=point];
+    "n3_6" -> null0;
+    "n3_6" -> "n17_15";
+    "n17_15" [label="(17,15)\n[y]"];
+    null1 [shape=point];
+    "n17_15" -> null1;
+    "n17_15" -> "n13_15";
+    "n13_15" [label="(13,15)\n[x]"];
+    null2 [shape=point];
+    "n13_15" -> null2;
+    null3 [shape=point];
+    "n13_15" -> null3;
+}

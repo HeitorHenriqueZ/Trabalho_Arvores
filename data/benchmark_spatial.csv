@@ -1,0 +1,7 @@
+Operacao,N,Consultas,Tempo_ms
+NearestNeighbor,10000,10000,4
+RangeSearch,10000,10000,3
+NearestNeighbor,100000,10000,10
+RangeSearch,100000,10000,13
+NearestNeighbor,500000,10000,15
+RangeSearch,500000,10000,81

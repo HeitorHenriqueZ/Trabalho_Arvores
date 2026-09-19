@@ -1,0 +1,9 @@
+Distribuicao,Estrutura,N,Insercao_ms,Busca_ms
+ordenado,Splay,10000,0,0
+ordenado,Treap,10000,0,0
+localidade_80_20,Splay,10000,0,1
+localidade_80_20,Treap,10000,0,0
+ordenado,Splay,100000,1,6
+ordenado,Treap,100000,5,5
+localidade_80_20,Splay,100000,0,26
+localidade_80_20,Treap,100000,0,19
